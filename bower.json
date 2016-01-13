@@ -1,0 +1,19 @@
+{
+  "name": "purescript-alert",
+  "version": "0.0.1",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cdepillabout/purescript-alert.git"
+  }
+}
