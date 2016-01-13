@@ -11,6 +11,8 @@
     "output"
   ],
   "dependencies": {
+    "purescript-eff": "^0.1",
+    "purescript-prelude": "^0.1"
   },
   "repository": {
     "type": "git",
