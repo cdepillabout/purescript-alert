@@ -20,7 +20,3 @@ $ ./node_modules/.bin/bower install --save purescript-alert
 $ pulp build
 $ pulp test
 ```
-
-### Usage
-
-*TODO*

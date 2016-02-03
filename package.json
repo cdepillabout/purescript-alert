@@ -1,6 +1,6 @@
 {
   "name": "purescript-alert",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "call JavaScript's alert() function from PureScript",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
     "bower": "^1.7.1",
     "gulp": "^3.9.0",
     "pulp": "^6.1.0",
-    "purescript": "^0.8.0-rc.1"
+    "purescript": "^0.8.0"
   }
 }
